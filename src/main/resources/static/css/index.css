@@ -1,0 +1,34 @@
+.conter-header{
+  width: 100%;
+  height: 50px;
+  background-color: #8ec5ff;
+  font-size: 18px;
+  line-height: 50px;
+  padding: 0 15px;
+}
+.conter-body{
+  width: 100%;
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+.conter-footer{
+  width: 100%;
+  height: 50px;
+  background-color: #f0f0f0;
+  padding: 5px 2%;
+}
+.contract-back,.contract-confirm{
+  width: 20%;
+  height: 100%;
+  background-color: #fff;
+  border: 1px solid #dcdee2;
+  font-size: 14px;
+  border-radius: 4px;
+  outline: none;
+}
+.contract-confirm{
+  width: 76%;
+  margin-left: 2%;
+  background-color: #1591cf;
+  color: #fff;
+}
